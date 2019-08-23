@@ -85,7 +85,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_personal_portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
+            <state relative-caret-position="-346">
               <caret line="84" column="28" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="28" />
             </state>
           </provider>
@@ -272,18 +272,18 @@
       <option name="presentableId" value="Default" />
       <updated>1566338447131</updated>
       <workItem from="1566338456624" duration="7310000" />
-      <workItem from="1566417053617" duration="20127000" />
+      <workItem from="1566417053617" duration="20298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27437000" />
+    <option name="totallyTimeSpent" value="27608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="777" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2908745" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2897959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,7 +436,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_personal_portfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="-346">
           <caret line="84" column="28" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="28" />
         </state>
       </provider>
