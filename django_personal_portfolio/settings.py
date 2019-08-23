@@ -83,7 +83,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'portfiliodb',
-        'USER':'nick',
+        'USER':'postgres',
         'PASSWORD':'Ne1Ym9Ar92',
         'HOST':'localhost',
         'PORT':'5432',
@@ -139,7 +139,7 @@ MEDIA_URL = '/media/'
 
 
 try:
-    from local_settings import *
+    from .local_settings import *
 except ImportError:
     pass
 
