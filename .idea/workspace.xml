@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dadd6ac6-9470-4222-b89a-51919417a3d1" name="Default Changelist" comment="" />
+    <list default="true" id="dadd6ac6-9470-4222-b89a-51919417a3d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/django_personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_personal_portfolio/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_personal_portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-346">
-              <caret line="84" column="28" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="28" />
+            <state relative-caret-position="412">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
@@ -272,12 +274,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566338447131</updated>
       <workItem from="1566338456624" duration="7310000" />
-      <workItem from="1566417053617" duration="20298000" />
+      <workItem from="1566417053617" duration="21825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27608000" />
+    <option name="totallyTimeSpent" value="29135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="777" height="825" extended-state="0" />
@@ -436,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_personal_portfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret line="84" column="28" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="28" />
+        <state relative-caret-position="412">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
